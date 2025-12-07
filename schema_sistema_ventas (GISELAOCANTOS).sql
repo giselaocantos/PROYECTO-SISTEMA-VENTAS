@@ -1,5 +1,5 @@
 
--- Proyecto: Sistema de Ventas y Stock (Gimnasio / Emprendimiento)
+-- Proyecto: Sistema de Ventas y Stock 
 -- Autor: Gisela Ocantos
 -- Fecha: 2025-12-07
 
