@@ -153,9 +153,4 @@ CREATE TABLE movstock (
     FOREIGN KEY (venta_id) REFERENCES venta(venta_id)
 );
 
--- Indices recomendados
-CREATE INDEX idx_producto_categoria ON producto(categoria_id);
-CREATE INDEX idx_lista_producto ON lista_precio(producto_id);
-CREATE INDEX idx_movstock_producto ON movstock(producto_id);
-
 -- Fin del script
